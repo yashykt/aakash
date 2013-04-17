@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brick Bounce</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_game">New Game</string>
+    <string name="instructions">Instructions</string>
+    <string name="title_activity_brick_bounce">BrickBounceActivity</string>
+    <string name="instruction_data">There are 4 pads on each side of the screen. All four pads will move depending on how you move your finger across the screen. No need to explicitly touch the pads to move them. The objective is to keep the ball from going outside the screen. (Hint - Position the pads keeping in mind how the ball will bounce)</string>
+    <string name="title_activity_instruction">InstructionActivity</string>
+    <string name="back">Back</string>
+
+</resources>
